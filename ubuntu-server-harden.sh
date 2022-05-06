@@ -1,3 +1,5 @@
+# This script was based heavily on work from the UK Cyber Security Centre. Part or sections of the below code mayt be taken directly from: https://github.com/ukncsc/Device-Security-Guidance-Configuration-Packs/blob/main/Linux/UbuntuLTS/Ubuntu-LTS-post-install.sh
+
 #!/bin/bash
 HIGHLIGHT='\033[1;32m'
 NC='\033[0m'
